@@ -1,0 +1,17 @@
+.navbar {
+  min-height: 70px;
+}
+
+h1 {
+  font-size: 80px;
+}
+
+p {
+  font-size: 35px;
+}
+div.a {
+   position: relative;
+  left: 300px;
+  text-align: right;
+  
+}
